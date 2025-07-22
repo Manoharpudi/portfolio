@@ -1,0 +1,61 @@
+
+/*
+
+this one should add in sheet2.css
+
+
+.navbar-menu{
+    display: none;
+}
+@media (max-width: 1024px) {
+    .navbar {
+        display: none;
+    }
+    .navbar-menu {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 20px;
+        gap: 10px;
+    }
+    .hamburger {
+        background-color: white;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        align-self: flex-end;
+        padding: 5px;
+        border-radius: 5px;
+    }
+    .hamburger i {
+        font-size: 28px;
+    }
+
+    .navbar-menu .menu-bar {
+        flex-direction: column;
+        gap: 10px;
+        list-style: none;
+        margin-top: 10px;
+    }
+    .menu-bar li{
+        font-size: 20px;
+    }
+} */
+
+
+
+
+
+
+
+
+/* this is html part */
+       /* <!-- SECTION NAVABAR -->   
+        <!-- <nav class="navbar-menu">
+        <div class="logo">Mark karntia</div>
+        <div class="hamburger"><i class="fa-solid fa-bars"></i></div>
+        <ul class="menu-bar">
+            <li> <a href="#About">About</a></li>
+            <li><a href="#Skills">Skills</a></li>
+            <li><a href="#Projects">Projects</a></li>
+            <li><a href="#Contact">Contact</a></li>
+        </ul>
+    </nav> --> */
